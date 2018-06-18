@@ -1,6 +1,4 @@
-# Crowd usernmame-passwordauthentication plugin for Graylog
-
-[![Build Status](https://travis-ci.org/natlibfi/graylog-plugin-auth-crowd-userpass.svg?branch=master)](https://travis-ci.org/natlibfi/graylog-plugin-auth-crowd-userpass)
+# Crowd username-password-aauthentication plugin for Graylog [![Build Status](https://travis-ci.org/natlibfi/graylog-plugin-auth-crowd-userpass.svg?branch=master)](https://travis-ci.org/natlibfi/graylog-plugin-auth-crowd-userpass)
 
 This plugin adds support for Atlassian Crowd username-password authentication and authorization.
 
